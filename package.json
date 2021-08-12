@@ -1,0 +1,19 @@
+{
+  "name": "shared_component",
+  "version": "1.0.0",
+  "description": "Compartilhamento de componentes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipehfj/shared_component.git"
+  },
+  "author": "Felipe Ferreira (felipehfj)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipehfj/shared_component/issues"
+  },
+  "homepage": "https://github.com/felipehfj/shared_component#readme"
+}
